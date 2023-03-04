@@ -1,4 +1,8 @@
-baseURL = 'https://marco-zhan.github.io/'
+baseURL = "https://marco-zhan.github.io/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo-theme-cleanwhite'
+title = "Marco's Tech Blog"
+theme = "hugo-theme-cleanwhite"
+disqusShortname = "https-marco-zhan-github-io"
+
+[params]
+    header_image = "img/bmw-i4-header-img.jpeg"
