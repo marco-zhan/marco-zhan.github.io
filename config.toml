@@ -4,17 +4,36 @@ title = "Marco's Tech Blog"
 theme = "hugo-theme-cleanwhite"
 disqusShortname = "https-marco-zhan-github-io"
 
+[outputs]
+home = ["HTML"]
+
 [params]
-header_image                = "img/bmw-i4-header-img.jpeg"
-slogan                      = "Always learning ..."
+header_image                = "img/header_image.jpeg"
+SEOTitle                    = "Marco's Tech Blog"
+slogan                      = "I am still learning..."
 description                 = "Marco's Tech blog"
 keyword                     = "Marco, Tech, AWS, Kubernetes, Docker"
 image_404                   = "img/404_img.jpeg"
 title_404                   = "404 Page not found ..."
+omit_categories = false
 
-sidebar_about_description   = "Full Stack Developer, with interests in all techs"
+sidebar_about_description   = "Full Stack Developer @ FTP Solutions"
+#sidebar_avatar = "img/avatar.png"
+
+reward = false
+
+friends = false
+bookmarks = false
+about_me = true
 
 [params.social]
 email                       = "yixiao5898@gmail.com"
 linkedin                    = "https://www.linkedin.com/in/marcozhan/"
 github                      = "https://github.com/marco-zhan"
+
+[[params.addtional_menus]]
+  title =  "NOTES"
+  href =  "/notes/"
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/about/"
