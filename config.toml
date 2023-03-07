@@ -1,4 +1,4 @@
-baseURL = "https://marco-zhan.github.io/"
+baseURL = "https://blog.marcozh.com/"
 languageCode = 'en-us'
 title = "Marco's Tech Blog"
 theme = "hugo-theme-cleanwhite"
@@ -32,8 +32,5 @@ linkedin                    = "https://www.linkedin.com/in/marcozhan/"
 github                      = "https://github.com/marco-zhan"
 
 [[params.addtional_menus]]
-  title =  "NOTES"
-  href =  "/notes/"
-  [[params.addtional_menus]]
-  title =  "ABOUT"
-  href =  "/about/"
+title =  "Resume"
+href =  "https://resume.marcozh.com"
