@@ -8,12 +8,12 @@ disqusShortname = "https-marco-zhan-github-io"
 home = ["HTML"]
 
 [params]
-header_image                = "img/header_image.jpeg"
+header_image                = "/header_image.jpeg"
 SEOTitle                    = "Marco's Tech Blog"
 slogan                      = "I am still learning..."
 description                 = "Marco's Tech blog"
 keyword                     = "Marco, Tech, AWS, Kubernetes, Docker"
-image_404                   = "img/404_img.jpeg"
+image_404                   = "/404_img.jpeg"
 title_404                   = "404 Page not found ..."
 omit_categories = false
 
