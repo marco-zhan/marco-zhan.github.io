@@ -5,7 +5,7 @@ description: "An introspection on my recent work fault"
 date:        2023-03-29
 author:      "Marco"
 image:       ""
-tags:        ["tag1", "tag2"]
+tags:        
 categories:  ["General"]
 ---
 
