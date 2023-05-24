@@ -23,8 +23,8 @@ Ah oh...
 
 ![I am scared](/scared-sponge-bob.gif)
 
-No lie I am scared, frustrated, I quickly imagined what could happen, and scenes abot developers delete the database and run away
-floated in my brain and even worse, it was 4:50 pm when I saw this happened. Eventually I settled down after 10 minutes,
+No lie I am scared, frustrated and shocked. I quickly imagined what could happen, and scenes about developers delete the database and run away
+floated in my mind and even worse, it was 4:50 in the afternoon when I saw this happened and I was about to finish the day. Eventually I settled down after 10 minutes,
 I told myself this kind of thing will happen, and let's face it and try to minimise this issue as much as possible. Good news is
 this production site is 16 hours behind us, so no one will likely to be on and check at least within 5 or so hours, so we should
 be fine if we can get everything reverted before they get up and like whattttt... I looked through my changes and found out 
