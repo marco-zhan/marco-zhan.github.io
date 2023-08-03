@@ -5,7 +5,6 @@ description: "Setting up my home server with proxmox"
 date:        2023-08-02
 author:      "Marco"
 image:       ""
-tags:        ["tag1", "tag2"]
 categories:  ["Tech"]
 ---
 
