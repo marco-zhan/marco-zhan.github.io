@@ -1,5 +1,5 @@
 ---
-title:       "Home server setup with proxmox"
+title:       "Home Server Setup with Proxmox"
 subtitle:    ""
 description: "Setting up my home server with proxmox"
 date:        2023-08-02
@@ -21,6 +21,17 @@ and turn it into a home server.
 I have been using Proxmox at work for a while, and I am quite familiar with it, so I decided to use it as my virtualization 
 tool.  Proxmox is a Debian based virtualization tool, it is free and open source, and it is quite easy to use. 
 There are other options like VMware, but I am not familiar with it, and I don't want to spend too much time on learning.
+
+## Hardware
+I have a Desktop PC with the following specs:
+- CPU: Intel i9
+- RAM: 64GB
+- SSD: 2TB
+- Motherboard: ASUS Motherboard with 2 network cards
+- GPU: NVIDIA GeForce RTX 2080 Ti
+- Power Supply: 750W
+
+The most important thing here is the CPU and RAM, as I want to run multiple VMs and Kubernetes.
 
 ## Setting up Proxmox
 I am not going to go through the installation process, as it is quite straightforward. You can download the ISO
