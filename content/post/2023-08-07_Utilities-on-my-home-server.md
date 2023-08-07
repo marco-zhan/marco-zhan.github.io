@@ -1,8 +1,8 @@
 ---
-title:       "Home Server Setup with Proxmox"
+title:       "Utilities on my home server
 subtitle:    ""
-description: "Setting up my home server with proxmox"
-date:        2023-08-02
+description: "Useful utilities on my home server"
+date:        2023-08-07
 author:      "Marco"
 image:       ""
 categories:  ["Tech"]
